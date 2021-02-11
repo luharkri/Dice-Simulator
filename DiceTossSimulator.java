@@ -1,4 +1,3 @@
-package Dice;
 
 
 import java.util.Random;

@@ -1,4 +1,4 @@
-package Dice;
+
 
 
 import javax.swing.JFrame;
